@@ -1,0 +1,51 @@
+16:13:05 ERROR Test - error
+16:13:23 ERROR Test - error
+20:21:20 INFO  InfoReader - Data uploaded
+20:24:06 INFO  InfoReader - Data uploaded
+20:29:04 INFO  InfoReader - Data uploaded
+20:41:58 INFO  QuadrangleService - Program start
+20:41:58 INFO  InfoReader - Data uploaded
+20:42:34 INFO  QuadrangleService - Program start
+20:42:34 WARN  InfoReader - Illegal data
+20:42:34 ERROR QuadrangleService - The quadrangle is not created
+20:42:56 INFO  QuadrangleService - Program start
+20:42:56 INFO  InfoReader - Data uploaded
+20:48:12 INFO  QuadrangleService - Program start
+20:48:12 INFO  PointParser - Input incorrect line 1.0 -2.0 3 8 6 -3
+20:48:12 INFO  PointParser - Input incorrect line 
+20:48:12 INFO  PointParser - Input incorrect line 1.0 2.0 -3 4z 5 6 7 -8
+20:48:12 INFO  PointParser - Input incorrect line 
+20:48:12 INFO  PointParser - Input a correct line 3.0 3 2.0 4 3 5 4 4
+20:48:12 INFO  InfoReader - Data uploaded
+20:50:07 INFO  QuadrangleService - Program start
+20:50:07 INFO  PointParser - Input incorrect line 1.0 -2.0 3 8 6 -3
+20:50:07 INFO  PointParser - Input incorrect line 
+20:50:07 INFO  PointParser - Input incorrect line 1.0 2.0 -3 4z 5 6 7 -8
+20:50:07 INFO  PointParser - Input incorrect line 
+20:50:07 INFO  PointParser - Input a correct line 3.0 3 2.0 4 3 5 4 4
+20:50:07 INFO  InfoReader - Data uploaded
+20:50:07 INFO  QuadrangleService - Quadrangle created
+20:50:23 INFO  QuadrangleService - Program start
+20:50:23 INFO  PointParser - Input incorrect line 1.0 -2.0 3 8 6 -3
+20:50:23 INFO  PointParser - Input incorrect line 
+20:50:23 INFO  PointParser - Input incorrect line 1.0 2.0 -3 4z 5 6 7 -8
+20:50:23 INFO  PointParser - Input incorrect line 
+20:50:23 INFO  PointParser - Input incorrect line 3.0 3 2.0 4 3 5 4 4z
+20:50:23 WARN  InfoReader - Illegal data
+20:50:23 ERROR QuadrangleService - The quadrangle is not created
+20:50:25 INFO  QuadrangleService - Program start
+20:50:25 INFO  PointParser - Input incorrect line 1.0 -2.0 3 8 6 -3
+20:50:25 INFO  PointParser - Input incorrect line 
+20:50:25 INFO  PointParser - Input incorrect line 1.0 2.0 -3 4z 5 6 7 -8
+20:50:25 INFO  PointParser - Input incorrect line 
+20:50:25 INFO  PointParser - Input incorrect line 3.0 3 2.0 4 3 5 4 4z
+20:50:25 WARN  InfoReader - Illegal data
+20:50:25 ERROR QuadrangleService - The quadrangle is not created
+20:51:17 INFO  QuadrangleService - Program start
+20:51:17 INFO  PointParser - Input incorrect line 1.0 -2.0 3 8 6 -3
+20:51:17 INFO  PointParser - Input incorrect line 
+20:51:17 INFO  PointParser - Input incorrect line 1.0 2.0 -3 4z 5 6 7 -8
+20:51:17 INFO  PointParser - Input incorrect line 
+20:51:17 INFO  PointParser - Input a correct line 3.0 3 2.0 4 3 5 4 4
+20:51:17 INFO  InfoReader - Data uploaded
+20:51:17 INFO  QuadrangleService - Quadrangle created
