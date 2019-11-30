@@ -47,13 +47,4 @@ public class Point implements Figure{
         result = 31 * result + (int) (temp ^ (temp >>> 32));
         return result;
     }
-
-    @Override
-    public String toString() {
-        return "Point{" +
-                "id=" + id +
-                ", x=" + x +
-                ", y=" + y +
-                '}';
-    }
 }

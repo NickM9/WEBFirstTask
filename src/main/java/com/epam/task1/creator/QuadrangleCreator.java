@@ -21,7 +21,7 @@ public class QuadrangleCreator {
         Point c = new Point(points.get(4), points.get(5));
         Point d = new Point(points.get(6), points.get(7));
 
-        return new Quadrangle(a, b, c, d);
+        return new Quadrangle(999, a, b, c, d);
     }
 
 }
